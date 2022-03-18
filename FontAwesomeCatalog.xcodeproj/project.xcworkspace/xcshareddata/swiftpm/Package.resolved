@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "fontawesome-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ngs/fontawesome-swiftui",
+      "state" : {
+        "revision" : "69b773008415a578a11795d55d1c77081b7f697d",
+        "version" : "0.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}

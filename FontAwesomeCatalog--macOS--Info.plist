@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATSApplicationFontsPath</key>
+	<string>.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>fa-brands-400.ttf
+fa-duotone-900.ttf
+fa-free-brands-400.ttf
+fa-free-regular-400.ttf
+fa-free-solid-900.ttf
+fa-free-v4compatibility.ttf
+fa-pro-light-300.ttf
+fa-pro-regular-400.ttf
+fa-pro-solid-900.ttf
+fa-pro-thin-100.ttf
+fa-pro-v4compatibility.ttf</string>
+		<string>fa-duotone-900.ttf</string>
+		<string>fa-free-brands-400.ttf</string>
+		<string>fa-free-regular-400.ttf</string>
+		<string>fa-free-solid-900.ttf</string>
+		<string>fa-pro-light-300.ttf</string>
+		<string>fa-pro-regular-400.ttf</string>
+		<string>fa-pro-solid-900.ttf</string>
+		<string>fa-pro-thin-100.ttf</string>
+	</array>
+</dict>
+</plist>
